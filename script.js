@@ -15,7 +15,7 @@ function draw() {
   rect(0,250,width,height - 250);  
 
   tekenHuis();
-
+opiopo
   tekenBoom(700);
   tekenBoom(900);
 }
